@@ -28,3 +28,19 @@ h1{
 .evidenziato {
     background-color: yellow;
 }
+
+table{ 
+    border-collapse: collapse;
+}
+
+td{ width:15% ;
+}
+
+thead{
+    background-color: #4ea0ff;
+    color: white; 
+}
+
+.azzurro {
+    background-color: #b1e5f2;
+}
