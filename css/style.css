@@ -20,3 +20,7 @@ h1{
 .inner-text{
     color: blue;
 }
+
+.credits{
+    font-size: 12px;
+}
