@@ -1,0 +1,22 @@
+header{
+    background-image: url(../img/pattern.png);
+    background-color:#4ea0ff;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: contain;
+} 
+
+.logo{
+    height: 50px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.fonte{
+    color: gray;
+}
+.inner-text{
+    color: blue;
+}
